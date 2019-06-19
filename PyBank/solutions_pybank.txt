@@ -1,0 +1,11 @@
+<_csv.reader object at 0x0000022FFCCD1A70>
+['Date', 'Profit/Losses']
+86
+Financial Analysis
+----------------------------------------------------
+Total number of months 86
+Average Monthly Change2315.1176470588234
+25
+Greatest Profit ['Feb-2012', '1170593']
+44
+Greatest Loss ['Sep-2013', '-1196225']
